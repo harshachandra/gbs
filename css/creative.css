@@ -185,6 +185,10 @@ header {
     background-size: cover;
     -o-background-size: cover;
 }
+.bani{
+    background-image: url(../img/bani.jpg);
+    background-size: 200;
+}
 
 header .header-content {
     position: relative;
