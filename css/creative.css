@@ -187,7 +187,7 @@ header {
 }
 .bani{
     background-image: url(../img/bani31.jpg);
-    background-size: 200;
+    background-size: 100%;
 }
 
 header .header-content {
