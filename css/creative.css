@@ -174,11 +174,11 @@ aside {
 
 header {
     position: relative;
-    width: 50%;
+    width: 100%;
     min-height: auto;
     text-align: center;
-    color: #fff;
-    background-image: url(../img/shubh-bijoya.jpg);
+    color: red;
+    #background-image: url(../img/shubh-bijoya.jpg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
