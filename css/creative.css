@@ -177,7 +177,8 @@ header {
     width: 100%;
     min-height: auto;
     text-align: center;
-    color: red;
+	background-color: red;
+    color: yellow;
     #background-image: url(../img/shubh-bijoya.jpg);
     background-position: center;
     -webkit-background-size: cover;
